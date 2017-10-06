@@ -1,0 +1,8 @@
+{
+  "proxyKey": "51fb963a-4f60-4ed1-aa07-012ff17006cd",
+  "apiKey": "d7f0152a-0245-48cc-be4a-5e4795137b47:a1e5bc53-7e1d-49d6-9518-0752822ca964",
+  "listenPort": 80,
+  "proxyTarget": "https://cloud.macexperience.com",
+  "secureProxy": false,
+  "https": false
+}
